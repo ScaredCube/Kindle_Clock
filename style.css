@@ -1,0 +1,19 @@
+.A{
+    width: 455px;
+    height: 220px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -227px 0 0 -227px;
+}
+
+.time{
+    font-size: 200px;
+    position: relative;
+    
+}
+
+.weather{
+    font-size: 100px;
+    position: relative;
+}
